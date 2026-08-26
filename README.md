@@ -26,4 +26,3 @@ https://github.com/emanu9313-web/phpcalculadora
 ## Integrantes
 
 - Emmanuel Muñoz Dorado
-- Luis Alfonso Mosquera
